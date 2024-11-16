@@ -1,16 +1,29 @@
-## Hi there 👋
+# Merhaba, Ben Arif Mandal! 👋
 
-<!--
-**arifmandal/arifmandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Kendim Hakkında
+📚 **Kurslarım:** 
+- [A'dan Z'ye PCB Tasarımı](https://xbowtie.com/pcb-design)
+- [Altium Designer ile Sıcaklık Sensörü Tasarımı](https://xbowtie.com/temperature-sensor-design)
 
-Here are some ideas to get you started:
+✍️ **Yeni Projem:**
+- [Uçuş Kontrol Kartı Tasarımı Rehberi](https://xbowtie.com/flight-controller-guide)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Bağlantılarım:**
+- [LinkedIn](https://www.linkedin.com/in/arifmandal)
+- [Instagram](https://www.instagram.com/arifmandal)
+- [Twitter](https://twitter.com/arifmandal)
+
+📧 **İletişim:** arifmandal@gmail.com
+
+---
+
+### Açık Kaynak Projelerim
+- [Bluetooth Kontrollü LED Matris](https://github.com/arifmandal/bluetooth-led-matrix)
+- [Low Density Parity Check (LDPC) Algoritması Simülasyonu](https://github.com/arifmandal/ldpc-simulation)
+
+---
+
+### Sosyal Medya
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arif%20Mandal-blue)](https://www.linkedin.com/in/arifmandal)
+[![Instagram](https://img.shields.io/badge/Instagram-ArifMandal-orange)](https://www.instagram.com/arifmandal)
+[![YouTube](https://img.shields.io/badge/YouTube-Arif%20Mandal-red)](https://www.youtube.com/channel/ArifMandal)
