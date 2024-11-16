@@ -1,6 +1,6 @@
 # Merhaba, Ben Arif Mandal! 👋
 
-### Kendim Hakkında
+### Gömülü Yazılım&Donanım Mühendisi olarak çalışmaktayım. Kurslarımız ve videolarımız ile deneyimlerimi, öğrendiklerimi sizlere aktarmaktayım. 
 📚 **Kurslarım:** 
 - [A'dan Z'ye PCB Tasarımı](https://xbowtie.com/pcb-design)
 - [Altium Designer ile Sıcaklık Sensörü Tasarımı](https://xbowtie.com/temperature-sensor-design)
@@ -13,7 +13,7 @@
 - [Instagram](https://www.instagram.com/arifmandal)
 - [Twitter](https://twitter.com/arifmandal)
 
-📧 **İletişim:** arifmandal@gmail.com
+📧 **İletişim:** arifmandal96@gmail.com
 
 ---
 
