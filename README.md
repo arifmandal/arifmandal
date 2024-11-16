@@ -1,7 +1,8 @@
 # Merhaba, Ben Arif Mandal! 👋
 
 ### Gömülü Yazılım&Donanım Mühendisi olarak çalışmaktayım. Kurslarımız ve videolarımız ile deneyimlerimi, öğrendiklerimi sizlere aktarmaktayım. 
-📚 **Kurslarım:** 
+📚 **Kurslarımız:**
+- [Gömülü Sistemler İçin C Dili](https://xbowtie.com/kurs/gomulu-sistemler-icin-c-dili-c3228?couponCode=1111)
 - [A'dan Z'ye PCB Tasarımı](https://xbowtie.com/pcb-design)
 - [Altium Designer ile Sıcaklık Sensörü Tasarımı](https://xbowtie.com/temperature-sensor-design)
 
