@@ -31,6 +31,20 @@
 
 ---
 
+### 🚀 Popüler Repositorylerim
+
+1. **Arduino**  
+   [![GitHub Repo stars](https://img.shields.io/github/stars/arifmandal/Arduino?style=social)](https://github.com/arifmandal/Arduino)
+   Bu proje, arduino çalışmalarımızı içerir.  
+   **[Repo'ya Git](https://github.com/arifmandal/Arduino)**
+
+2. **STM32**  
+   [![GitHub Repo stars](https://img.shields.io/github/stars/arifmandal/stm32_kurs_kod_ve_doc?style=social)](https://github.com/arifmandal/stm32_kurs_kod_ve_doc)
+   STM32 kursumuzun belgelerini içerir.  
+   **[Repo'ya Git](https://github.com/arifmandal/stm32_kurs_kod_ve_doc)**
+
+---
+
 ### Sosyal Medya
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arif%20Mandal-blue)](https://www.linkedin.com/in/arif-mandal-04-06/)
 [![Instagram](https://img.shields.io/badge/Instagram-ArifMandal-orange)](https://www.instagram.com/ariff_mandal/)
