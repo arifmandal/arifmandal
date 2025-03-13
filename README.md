@@ -1,7 +1,8 @@
 # Merhaba, Ben Arif Mandal! 👋
 
-### Gömülü Yazılım&Donanım Mühendisi olarak çalışmaktayım. Kurslarımız ve videolarımız ile deneyimlerimi, öğrendiklerimi sizlere aktarmaktayım. 
+### Gömülü Yazılım&Donanım Mühendisi olarak çalışmaktayım. Kurslarımız ve videolarımız ile deneyimlerimi, öğrendiklerimi sizlere aktarmaktayım. Takipte kalın!
 📚 **Kurslarımız:**
+- [STM32 ile Gömülü Sistemler Bootcamp Kursu: 30 Günde Uzmanlaş](https://xbowtie.com/kurs/stm32-ile-gomulu-sistemler-bootcamp-kursu-30-gunde-uzmanlas-c3726?couponCode=1111)
 - [Gömülü Sistemler İçin C Dili](https://xbowtie.com/kurs/gomulu-sistemler-icin-c-dili-c3228?couponCode=1111)
 - [STM32 ile A'dan Z'ye Gömülü Sistemler](https://xbowtie.com/kurs/stm32-ile-a-dan-z-ye-gomulu-sistemler-embedded-systems-c3227?couponCode=1111)
 - [STM32 ile Sensör Kütüphaneleri Geliştirme](https://xbowtie.com/kurs/stm32-ile-sensor-kutuphaneleri-gelistirme-c3435?couponCode=1111)
