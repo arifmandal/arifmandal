@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/arifmandal/Images/blob/main/project-icons.png" alt="Header Banner" width="80%" style="max-width: 600px; height: auto;">
+</div>
+
 # Merhaba, Ben Arif Mandal! 👋
 
 ### Gömülü Yazılım&Donanım Mühendisi olarak çalışmaktayım. Kurslarımız ve videolarımız ile deneyimlerimi, öğrendiklerimi sizlere aktarmaktayım. Takipte kalın!
